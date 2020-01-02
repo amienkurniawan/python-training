@@ -1,0 +1,44 @@
+{
+   "coord":{
+      "lon":110.42,
+      "lat":-6.99
+   },
+   "weather":[
+      {
+         "id":501,
+         "main":"Rain",
+         "description":"moderate rain",
+         "icon":"10d"
+      }
+   ],
+   "base":"stations",
+   "main":{
+      "temp":298.26,
+      "pressure":975.57,
+      "humidity":95,
+      "temp_min":298.26,
+      "temp_max":298.26,
+      "sea_level":1023.56,
+      "grnd_level":975.57
+   },
+   "wind":{
+      "speed":1.3,
+      "deg":319.001
+   },
+   "rain":{
+      "3h":5.1875
+   },
+   "clouds":{
+      "all":64
+   },
+   "dt":1550133959,
+   "sys":{
+      "message":0.0071,
+      "country":"ID",
+      "sunrise":15      50097751,
+      "sunset":1550142142
+   },
+   "id":1627896,
+   "name":"Semarang",
+   "cod":200
+}
